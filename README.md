@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi,+There!%20&fontColor=CFCFCF)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=048ED4&width=435&lines=I'm+Lucas+Giavaroti!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;20+years+old;Technology+student;Full-Stack+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=048ED4&center=true&width=435&lines=I'm+Lucas+Giavaroti!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;20+years+old;Technology+student;Full-Stack+Development)](https://git.io/typing-svg)
 
 <div align="center">  
   <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
