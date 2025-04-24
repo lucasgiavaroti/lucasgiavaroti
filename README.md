@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Java Spring Environment</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Java Spring</p>
 
 ###
 
