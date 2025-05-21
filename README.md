@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Lucas Giavaroti and I'm a Full-Stack Developer, from São João da Boa Vista - SP, Brazil.</p>
+<p align="left">My name is Lucas Giavaroti and I'm a Back-End Developer, from São João da Boa Vista - SP, Brazil.</p>
 
 ###
 
@@ -28,8 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
