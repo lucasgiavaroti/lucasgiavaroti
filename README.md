@@ -19,19 +19,15 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Spring-Dark.svg" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" height="40" alt="javascript logo"  />
 </div>
 
 ###
@@ -41,13 +37,16 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Azure-Dark.svg" height="40" alt="azure logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
 </div>
 
 ###
@@ -58,13 +57,13 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/lucas-giavaroti/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" width="32" height="20" alt="linkedin logo"  />
   </a>
   <a href="mailto:lucas.giavaroti@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo"  />
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" width="32" height="20" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/lucas_giavaroti/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="20" alt="instagram logo"  />
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" width="32" height="20" alt="instagram logo"  />
   </a>
 </div>
 
